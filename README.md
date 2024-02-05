@@ -55,6 +55,7 @@ I'm a Python Software Engineer <img src="https://github.com/nanakin/nanakin/asse
 
 <details>
 <summary>Concepts and guidelines 📖 (click to open)</summary>
+
 - TDD (Test Driven Development)
 - DDD (Domain Driven Design)
 - Clean Code: KISS, DRY, etc.
