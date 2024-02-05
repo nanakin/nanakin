@@ -1,20 +1,15 @@
 
-![cover](https://github.com/nanakin/nanakin/assets/14202917/5aeb56b7-f205-4910-a896-030befc82981)
 ### About
-
 Hi there 👋, my name is Anna. 
 
 I'm a Python Software Engineer <img src="https://github.com/nanakin/nanakin/assets/14202917/a70cc56b-3246-4e3f-99fb-58b4874d7fc0"> based in France near Paris.
 
 ### How to reach me
-
 [<img alt=gmail src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge">](mailto:kaczoro.anna@gmail.com)
 [<img alt=linkedin src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge">](https://www.linkedin.com/in/annakaczorowski/)
 
 ### Languages and Tools
-
 #### Badges
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
@@ -35,59 +30,58 @@ I'm a Python Software Engineer <img src="https://github.com/nanakin/nanakin/asse
 </p>
 
 #### I am familiar with
-
 <details>
 <summary>Technologies 🧰 (click to open)</summary>
 <img width="180px" align="right" src="https://github.com/nanakin/nanakin/assets/14202917/aee2ed10-aebf-45db-b631-0d5a6478bbb6" alt="octocat">
 
 - concurrency: `asyncio`
-- static type: `mypy`
+- static typing: `mypy`
 - style: `flake8`,`black`,`isort`
 - testing: `pytest`, `tox`, `coverage`
-- packaging and dependency : `poetry`
+- packaging and dependency: `poetry`
 - documentation: `sphinx`, `readthedocs`
 - CI/CD: `circleci`
 - containerization: `docker`
 - monitoring: `sentry`
 - database: `mysql`
 - web frameworks: `django`, `flask`
-- API : `rest`
+- API: `rest`
 - object relational mapping: `sqlalchemy`, `django-orm`
 - command line: `click`
 - terminal user interface: `rich`, `questionary`
 - frontend: `html`, `css`, a little of `javascript`
-- other : `pygame`
+- other: `pygame`
 </details>
 
 <details>
-<summary>Concepts 📖 (click to open)</summary>
-
-- OOP (Object-Oriented Programming)
+<summary>Concepts and guidelines 📖 (click to open)</summary>
 - TDD (Test Driven Development)
 - DDD (Domain Driven Design)
+- Clean Code: KISS, DRY, etc.
 - SOLID principles (Single-responsibility, Interface segregation, ...)
-- MVC (Model View Controller)
 - Agile
+- OWASP top 10 security risks
+- RGPD (General Data Protection Regulation)
+- PEP 8 coding conventions
 </details>
 
 ### Projects
 
 Most of my public repositories are recent projects related to my Python Developer certification. 
-Here some keyword I used to tag them : `algorithm`, `cli`, `mvc-architecture`, `cicd`, `constraint-programming`, `django`, `api-rest`, `documentation`.
+Here some keyword I used in tag: `algorithm`, `cli`, `mvc-architecture`, `cicd`, `constraint-programming`, `django`, `api-rest`, `documentation`.
 
 You can find them, in the pinned repositories section below this profile part.
 
 ### Experience and Education
 
 #### Experience 👩🏼‍💻🏢
-~10 years of experience in fields related to software development such as : development, security, system administration, QA, project and product management.
-
+~10 years of experience in fields related to software engineering such as: development, security, system administration, QA, project and product management.
 #### Education 📜
-- 2011 : Bachelor’s and Master’s degree in Computer Sciences - University of Pierre et Marie Currie (Paris)
-- 2024 : Python Developer certification - OpenClassrooms (1 year course)
+- 2011: Bachelor’s and Master’s degree in Computer Science - University of Pierre et Marie Currie (Paris)
+- 2024: Python Developer certification - OpenClassrooms (1 year course)
 
 ### Interests
-In my free time you can find me :
+In my free time you can find me:
 - running 🏃, preparing for my first marathon
 - climbing in the Fontainebleau forest 🧗
 - gardening 🌱 in my small fish (and shrimp) tank
