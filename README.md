@@ -38,11 +38,12 @@ I'm a Python Software Engineer <img src="https://github.com/nanakin/nanakin/asse
 - static typing: `mypy`
 - style: `flake8`,`black`,`isort`
 - testing: `pytest`, `tox`, `coverage`
+- security: `bandit`
 - packaging and dependency: `poetry`
-- documentation: `sphinx`, `readthedocs`
+- documentation: `sphinx`
 - CI/CD: `circleci`
 - containerization: `docker`
-- monitoring: `sentry`
+- log monitoring: `sentry`
 - database: `mysql`
 - web frameworks: `django`, `flask`
 - API: `rest`
@@ -69,7 +70,7 @@ I'm a Python Software Engineer <img src="https://github.com/nanakin/nanakin/asse
 ### Projects
 
 Most of my public repositories are recent projects related to my Python Developer certification. 
-Here some keyword I used in tag: `algorithm`, `cli`, `mvc-architecture`, `cicd`, `constraint-programming`, `django`, `api-rest`, `documentation`.
+Here some keyword I used in tag: `cli`, `type-hinting`, `pytest`, `mvc-architecture`, `cicd`, `algorithm`, `constraint-programming`, `django`, `api-rest`, `documentation`.
 
 You can find them, in the pinned repositories section below this profile part.
 
